@@ -27,6 +27,12 @@ source venv/bin/activate
 python -m pip install interface-gen
 ```
 
+Or, to install an editable package from a git checkout:
+
+```
+python -m pip install -e .
+```
+
 3. Set up your protocol definitions and output directory.
 
 ```
