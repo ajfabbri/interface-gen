@@ -51,7 +51,6 @@ def ensure_jre() -> Path | None:
 
 
 def install_avro_tools(target_dir: Path):
-    global AVRO_VERSION
     target_dir.mkdir(parents=True, exist_ok=True)
     jar = avro_jar(AVRO_VERSION)
     jarpath = target_dir / jar
