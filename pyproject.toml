@@ -1,7 +1,7 @@
 [project]
 name = "interface_gen"
 version = "0.1.0"
-authors = [{ name = "Aaron Fabbri", email = "aaron.fabbri@ditto.live" }]
+authors = [{ name = "Aaron Fabbri", email = "558234+ajfabbri@users.noreply.github.com" }]
 description = "Define data format schemas once and generate code for multiple languages and serialization frameworks."
 readme = "dist-readme.md"
 requires-python = ">=3.10"
@@ -15,8 +15,8 @@ classifiers = [
 dynamic = ["dependencies"]
 
 [project.urls]
-Homepage = "https://github.com/getditto/interface-gen"
-Issues = "https://github.com/getditto/interface-gen/issues"
+Homepage = "https://github.com/ajfabbri/interface-gen"
+Issues = "https://github.com/ajfabbri/interface-gen/issues"
 
 [project.scripts]
 ifgen = "interface_gen.generate:main"
