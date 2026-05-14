@@ -1,5 +1,5 @@
 
-![Python CI](https://github.com/getditto/interface-gen/workflows/Python%20CI/badge.svg)
+![Python CI](https://github.com/ajfabbri/interface-gen/workflows/Python%20CI/badge.svg)
 
 # Interface Gen
 
