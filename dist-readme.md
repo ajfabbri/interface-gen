@@ -52,7 +52,7 @@ ifgen -i -p my-protocols -o my-output
 
 For more details see the source code docs:
 
-- Python [interface\_gen/README.md](https://github.com/getditto/interface_gen/blob/main/README.md)
-- Main [README.md](https://github.com/getditto/interface-gen/blob/main/README.md)
-- The [code repostitory](https://github.com/getditto/interface-gen)
+- Python [interface\_gen/README.md](https://github.com/ajfabbri/interface_gen/blob/main/README.md)
+- Main [README.md](https://github.com/ajfabbri/interface-gen/blob/main/README.md)
+- The [code repostitory](https://github.com/ajfabbri/interface-gen)
 

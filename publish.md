@@ -7,7 +7,7 @@
 - Tag the commit, i.e. `git tag v99.99.99`
 - Push the tag to GitHub, i.e. `git push origin v99.99.99`
 - Wait for the GitHub action to run successfully.
-- Go to the [Tags page](https://github.com/getditto/interface-gen/tags) and create a release.
+- Go to the [Tags page](https://github.com/ajfabbri/interface-gen/tags) and create a release.
 
 ## Manually from Command Line
 
